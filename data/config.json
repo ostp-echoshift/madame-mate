@@ -1,0 +1,18 @@
+{
+  "nombre": "MADAME MATE",
+  "tagline": "Enceres del Hogar con Elegancia Francesa",
+  "ciudad": "[CIUDAD]",
+  "direccion": "[DIRECCIÓN]",
+  "whatsapp": "521[TELEFONO]",
+  "whatsapp_display": "[TELEFONO FORMATO]",
+  "email_ventas": "[EMAIL]",
+  "google_maps": "[URL_MAPS]",
+  "facebook": "",
+  "instagram": "",
+  "horario": "Lunes a Sábado 10:00 - 19:00",
+  "moneda": "MXN",
+  "colores_primario": "#C470B8",
+  "colores_secundario": "#B898D0",
+  "fuente_titulos": "Cormorant Garamond",
+  "fuente_cuerpo": "DM Sans"
+}

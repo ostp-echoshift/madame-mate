@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "imagen": "assets/img/banners/banner01.jpg",
+    "titulo": "[TITULO BANNER]",
+    "subtitulo": "[SUBTITULO]",
+    "cta_texto": "Ver colección",
+    "cta_enlace": "colecciones.html?seg=hogar",
+    "categoria": "hogar",
+    "activo": true,
+    "orden": 1
+  }
+]

@@ -1,0 +1,65 @@
+/* ================================================================
+   tokens.css -- Madame-MaTe Design Tokens (OFICIAL)
+   OSTP @echoShift  |  Pipeline: Leviatan
+   ================================================================ */
+:root {
+  /* ===== COLORES PRIMARIOS - Brand Avatar System ===== */
+  --vz-primary: #EA22C3;  /* Bright Magenta */
+  --vz-primary-light: #E000C3;  /* Bright Magenta Intenso */
+  --vz-primary-dark:   #8B3878;  /* Magenta Oscuro */
+  
+  /* ===== COLORES SECUNDARIOS - Sistema Heliotropo/Orquídea ===== */
+  --vz-accent: #DF73FF;  /* Heliotropo */
+  --vz-accent-light:   #E470FF;  /* Orquídea Claro */
+  --vz-accent-dark:    #8660BE;  /* Orquídea Oscuro */
+  
+  /* ===== NEUTROS - Silver/Cream ===== */
+  --vz-silver:         #E6EEFF;  /* Silver Claro */
+  --vz-silver-dark:    #B000AA;  /* Silver Oscuro */
+  --vz-bg:             #CACBD;   /* Cream Base */
+  --vz-bg-alt:         #CACDD;   /* Cream Alternativo */
+  --vz-white:          #FFFFFF;
+  
+  /* ===== TEXTOS ===== */
+  --vz-text:           #2C2C24;
+  --vz-text-muted:     #7A7060;
+  --vz-text-light:     #9A8A70;
+  
+  /* ===== BORDES ===== */
+  --vz-border:         #D9D0C0;
+  --vz-border-light:   #EDE5D8;
+  
+  /* ===== TIPOGRAFÍA - Sistema Oficial ===== */
+  --vz-font-display: 'Playfair Display', Georgia, serif;      /* Primary Serif */
+  --vz-font-body:    'Garamond', 'Times New Roman', serif;   /* Body Serif */
+  --vz-font-accent:  'Montserrat', 'Trebuchet MS', sans-serif; /* Accent Sans */
+  --vz-font-mono:    'Courier New', monospace;
+  
+  /* ===== ESPACIADO ===== */
+  --vz-sp-xs:  4px;
+  --vz-sp-sm:  8px;
+  --vz-sp-md:  16px;
+  --vz-sp-lg:  32px;
+  --vz-sp-xl:  64px;
+  --vz-sp-2xl: 96px;
+  
+  /* ===== RADII ===== */
+  --vz-radius-sm:   4px;
+  --vz-radius-md:   8px;
+  --vz-radius-lg:   16px;
+  --vz-radius-pill: 999px;
+  
+  /* ===== WHATSAPP ===== */
+  --vz-whatsapp:      #25D366;
+  --vz-whatsapp-dark: #128C7E;
+  
+  /* ===== Z-INDEX ===== */
+  --vz-z-nav:   100;
+  --vz-z-modal: 200;
+  --vz-z-toast: 300;
+  
+  /* ===== SHADOWS ===== */
+  --vz-shadow-sm: 0 1px 4px rgba(234, 34, 195, .08);
+  --vz-shadow-md: 0 4px 16px rgba(234, 34, 195, .10);
+  --vz-shadow-lg: 0 8px 32px rgba(223, 115, 255, .15);
+}

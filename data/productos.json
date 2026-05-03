@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "nombre": "[PLACEHOLDER] Producto Hogar 01",
+    "descripcion": "[PLACEHOLDER] Descripción del producto",
+    "precio": 0,
+    "categoria": "hogar",
+    "imagen": "assets/img/productos/HOGAR/placeholder.jpg",
+    "visible": true
+  }
+]

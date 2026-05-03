@@ -1,0 +1,9 @@
+[
+  {
+    "id": "gerente",
+    "nombre": "[NOMBRE]",
+    "rol": "[ROL]",
+    "especialidad": "[ESPECIALIDAD]",
+    "foto": "assets/img/equipo/placeholder.jpg"
+  }
+]
